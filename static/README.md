@@ -1,0 +1,1 @@
+This folder contain icons which is used in the web app to control the robot
